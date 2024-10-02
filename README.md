@@ -43,7 +43,7 @@ bad_words_ru.txt
 cloud_shape.png
 cloud_shape2.png 
 
-### Результаты тестирования
+### Результаты тестирования:
 wordcloud_counts.png
 wordcloud_importance.png
 
