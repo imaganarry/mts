@@ -43,6 +43,10 @@ bad_words_ru.txt
 cloud_shape.png
 cloud_shape2.png 
 
+### Результаты тестирования
+wordcloud_counts.png
+wordcloud_importance.png
+
 ## 4. Краткое описание функционала в файле obr1.py
 ПО КОЛИЧЕСТВУ:
 1. С помощью регулярных выражений фильтруем текст от знаков препинания, оставляя только буквы. 
